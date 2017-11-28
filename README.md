@@ -1,4 +1,6 @@
 
+# MIGRATED TO [NEWSUK/DEXTROSE]
+
 # Dextrose
 
 
@@ -21,5 +23,5 @@ To run the the example Pull the repo
 note: please make sure you have an (emulatlor | simulator), (appium | selenium) and a packager running.
 
 
-
+[NEWSUK/DEXTROSE]: https://github.com/newsuk/dextrose
 [fructose]: https://github.com/newsuk/fructose
